@@ -14,3 +14,5 @@
 4.  对生成的字典进行文本去重，保证没有重复结果。
 
 5.  软件根目录放置了一个中文姓名字典，供大家使用。
+
+![image](https://github.com/abc123info/UserNameDictTools/assets/143333826/22d70d95-e85c-42e8-be2d-4d7653255439)
